@@ -1,0 +1,14 @@
+C:\4\cute_gang\qbit\Loops\startriangle\bin\Debug\net7.0\startriangle.exe
+C:\4\cute_gang\qbit\Loops\startriangle\bin\Debug\net7.0\startriangle.deps.json
+C:\4\cute_gang\qbit\Loops\startriangle\bin\Debug\net7.0\startriangle.runtimeconfig.json
+C:\4\cute_gang\qbit\Loops\startriangle\bin\Debug\net7.0\startriangle.dll
+C:\4\cute_gang\qbit\Loops\startriangle\bin\Debug\net7.0\startriangle.pdb
+C:\4\cute_gang\qbit\Loops\startriangle\obj\Debug\net7.0\startriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\4\cute_gang\qbit\Loops\startriangle\obj\Debug\net7.0\startriangle.AssemblyInfoInputs.cache
+C:\4\cute_gang\qbit\Loops\startriangle\obj\Debug\net7.0\startriangle.AssemblyInfo.cs
+C:\4\cute_gang\qbit\Loops\startriangle\obj\Debug\net7.0\startriangle.csproj.CoreCompileInputs.cache
+C:\4\cute_gang\qbit\Loops\startriangle\obj\Debug\net7.0\startriangle.dll
+C:\4\cute_gang\qbit\Loops\startriangle\obj\Debug\net7.0\refint\startriangle.dll
+C:\4\cute_gang\qbit\Loops\startriangle\obj\Debug\net7.0\startriangle.pdb
+C:\4\cute_gang\qbit\Loops\startriangle\obj\Debug\net7.0\startriangle.genruntimeconfig.cache
+C:\4\cute_gang\qbit\Loops\startriangle\obj\Debug\net7.0\ref\startriangle.dll
