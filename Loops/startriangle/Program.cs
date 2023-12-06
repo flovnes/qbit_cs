@@ -1,6 +1,4 @@
-﻿using System;
-
-class Program
+﻿class Program
 {
     static void Main()
     {
@@ -17,24 +15,29 @@ class Program
                 for (int i = 1; i <= num; i++)
                 {
                     bool firstStar = true;
-                    if (i > num - line) {
+                    if (i > num - line)
+                    {
                         if (i == num)
                         {
                             Console.Write("*");
                         }
                         else if (i == num - line + 1)
                         {
-                            if (firstStar == true) {
-                                if (line == 1) {
-                                    Console.Write("*".PadLeft(num*2));
-                                } else {
-                                Console.Write("* ".PadLeft(num*2));
-                                firstStar = false;
+                            if (firstStar == true)
+                            {
+                                if (line == 1)
+                                {
+                                    Console.Write("*".PadLeft(num * 2));
+                                }
+                                else
+                                {
+                                    Console.Write("* ".PadLeft(num * 2));
+                                    firstStar = false;
+                                }
                             }
                         }
-                    }
-                    else
-                    { Console.Write("+ ");}
+                        else
+                        { Console.Write("+ "); }
 
                     }
                 }
@@ -52,22 +55,26 @@ class Program
                         }
                         else if (i == line - num + 1)
                         {
-                            if (firstStar == true) {
-                                if (line == num*2-1) {
-                                    Console.Write("*".PadLeft(num*2));
-                                } else {
-                                Console.Write("* ".PadLeft(num*2));
-                                firstStar = false;
+                            if (firstStar == true)
+                            {
+                                if (line == num * 2 - 1)
+                                {
+                                    Console.Write("*".PadLeft(num * 2));
+                                }
+                                else
+                                {
+                                    Console.Write("* ".PadLeft(num * 2));
+                                    firstStar = false;
+                                }
                             }
-                        }
-                        else
-                        {
-                            Console.Write("+ ");
-                        }
+                            else
+                            {
+                                Console.Write("+ ");
+                            }
                         }
                     }
                 }
-            Console.WriteLine();
+                Console.WriteLine();
             }
         }
     }
